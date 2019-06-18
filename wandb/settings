@@ -1,0 +1,4 @@
+[default]
+entity: univai-ss2019
+project: lang1
+base_url: https://api.wandb.ai
