@@ -15,7 +15,7 @@ config = wandb.config
 
 # set parameters:
 config.vocab_size = 1000
-config.maxlen = 300
+config.maxlen = 1000
 config.batch_size = 32
 config.embedding_dims = 50
 config.filters = 250
